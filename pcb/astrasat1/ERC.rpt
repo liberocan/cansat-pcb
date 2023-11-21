@@ -1,0 +1,276 @@
+ERC report (Sun 19 Nov 2023 10:36:06 AM CET, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 87.6300 mm): Symbol U6 Pin 11 [DIO4, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(158.7500 mm, 74.9300 mm): Symbol U6 Pin 5 [~{RESET}, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(158.7500 mm, 77.4700 mm): Symbol U6 Pin 6 [DIO10, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(158.7500 mm, 82.5500 mm): Symbol U6 Pin 8 [RESERV, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(158.7500 mm, 80.0100 mm): Symbol U6 Pin 7 [DIO11, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(158.7500 mm, 85.0900 mm): Symbol U6 Pin 9 [DIO8, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(158.7500 mm, 80.0100 mm): Symbol U6 Pin 7 [DIO11, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(158.7500 mm, 82.5500 mm): Symbol U6 Pin 8 [RESERV, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(158.7500 mm, 85.0900 mm): Symbol U6 Pin 9 [DIO8, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 67.3100 mm): Symbol U6 Pin 19 [AD1/DIO1, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 64.7700 mm): Symbol U6 Pin 20 [BTN, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 64.7700 mm): Symbol U6 Pin 20 [BTN, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 72.3900 mm): Symbol U6 Pin 17 [AD3/DIO3, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 74.9300 mm): Symbol U6 Pin 16 [DIO6, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 69.8500 mm): Symbol U6 Pin 18 [AD2/DIO2, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 87.6300 mm): Symbol U6 Pin 11 [DIO4, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(158.7500 mm, 72.3900 mm): Symbol U6 Pin 4 [DI012, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(158.7500 mm, 72.3900 mm): Symbol U6 Pin 4 [DI012, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(158.7500 mm, 77.4700 mm): Symbol U6 Pin 6 [DIO10, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(158.7500 mm, 74.9300 mm): Symbol U6 Pin 5 [~{RESET}, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 85.0900 mm): Symbol U6 Pin 12 [DIO7, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 82.5500 mm): Symbol U6 Pin 13 [ON/~{SLP}, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 77.4700 mm): Symbol U6 Pin 15 [DIO5, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 85.0900 mm): Symbol U6 Pin 12 [DIO7, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(184.1500 mm, 80.0100 mm): Symbol U6 Pin 14 [VREF, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(240.0300 mm, 50.8000 mm): Symbol U7 Pin 1 [VCC2, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 69.8500 mm): Symbol U6 Pin 18 [AD2/DIO2, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 74.9300 mm): Symbol U6 Pin 16 [DIO6, Input, Line]
+[pin_to_pin]: Pins of type Output and Output are connected
+    ; Severity: error
+    @(200.6600 mm, 124.4600 mm): Symbol U1 Pin  [OUT-, Output, Line]
+    @(200.6600 mm, 127.0000 mm): Symbol U1 Pin  [OUT+, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 80.0100 mm): Symbol U6 Pin 14 [VREF, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 72.3900 mm): Symbol U6 Pin 17 [AD3/DIO3, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 77.4700 mm): Symbol U6 Pin 15 [DIO5, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 82.5500 mm): Symbol U6 Pin 13 [ON/~{SLP}, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(184.1500 mm, 67.3100 mm): Symbol U6 Pin 19 [AD1/DIO1, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(237.4900 mm, 30.4800 mm): Symbol U7 Pin 4 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(240.0300 mm, 118.1100 mm): Symbol SW1 Pin 3 [C, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(86.3600 mm, 69.8500 mm): Symbol U8 Pin 7 [3V, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(86.3600 mm, 69.8500 mm): Symbol U8 Pin 7 [3V, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(57.1500 mm, 106.6800 mm): Symbol U2 Pin 10 [REGOUT, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(57.1500 mm, 91.4400 mm): Symbol U2 Pin 12 [INT, Output, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(57.1500 mm, 104.1400 mm): Symbol U2 Pin 20 [CPOUT, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(57.1500 mm, 96.5200 mm): Symbol U2 Pin 6 [AUX_DA, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(57.1500 mm, 99.0600 mm): Symbol U2 Pin 7 [AUX_CL, Output, Clock]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(41.9100 mm, 81.2800 mm): Symbol U2 Pin 13 [VDD, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(36.8300 mm, 81.2800 mm): Symbol U2 Pin 8 [VLOGIC, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(36.8300 mm, 81.2800 mm): Symbol U2 Pin 8 [VLOGIC, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(21.5900 mm, 96.5200 mm): Symbol U2 Pin 9 [AD0, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(58.4200 mm, 157.4800 mm): Symbol U3 Pin 3 [GND, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(58.4200 mm, 152.4000 mm): Symbol U3 Pin 5 [SDO, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(58.4200 mm, 160.0200 mm): Symbol U3 Pin 2 [3Vo, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(58.4200 mm, 157.4800 mm): Symbol U3 Pin 3 [GND, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(58.4200 mm, 160.0200 mm): Symbol U3 Pin 2 [3Vo, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(58.4200 mm, 144.7800 mm): Symbol U3 Pin 8 [INT, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(58.4200 mm, 147.3200 mm): Symbol U3 Pin 7 [CS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(58.4200 mm, 152.4000 mm): Symbol U3 Pin 5 [SDO, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(58.4200 mm, 144.7800 mm): Symbol U3 Pin 8 [INT, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(58.4200 mm, 147.3200 mm): Symbol U3 Pin 7 [CS, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(21.5900 mm, 106.6800 mm): Symbol U2 Pin 1 [CLKIN, Input, Clock]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(21.5900 mm, 104.1400 mm): Symbol U2 Pin 11 [FSYNC, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(21.5900 mm, 96.5200 mm): Symbol U2 Pin 9 [AD0, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(21.5900 mm, 104.1400 mm): Symbol U2 Pin 11 [FSYNC, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(21.5900 mm, 106.6800 mm): Symbol U2 Pin 1 [CLKIN, Input, Clock]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(101.6000 mm, 69.8500 mm): Symbol U8 Pin 1 [CD, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(101.6000 mm, 69.8500 mm): Symbol U8 Pin 1 [CD, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(116.8400 mm, 175.2600 mm): Symbol U9 Pin 43 [SWDIO, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(111.7600 mm, 175.2600 mm): Symbol U9 Pin 41 [SWCLK, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(114.3000 mm, 175.2600 mm): Symbol U9 Pin 42 [GND, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(114.3000 mm, 175.2600 mm): Symbol U9 Pin 42 [GND, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(111.7600 mm, 175.2600 mm): Symbol U9 Pin 41 [SWCLK, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 162.5600 mm): Symbol U9 Pin 24 [GPIO18, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 147.3200 mm): Symbol U9 Pin 30 [RUN, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 142.2400 mm): Symbol U9 Pin 32 [GPIO27_ADC1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 160.0200 mm): Symbol U9 Pin 25 [GPIO19, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 144.7800 mm): Symbol U9 Pin 31 [GPIO26_ADC0, Bidirectional, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(132.0800 mm, 147.3200 mm): Symbol U9 Pin 30 [RUN, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(132.0800 mm, 139.7000 mm): Symbol U9 Pin 33 [AGND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 139.7000 mm): Symbol U9 Pin 33 [AGND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 134.6200 mm): Symbol U9 Pin 35 [ADC_VREF, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(132.0800 mm, 134.6200 mm): Symbol U9 Pin 35 [ADC_VREF, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(132.0800 mm, 124.4600 mm): Symbol U9 Pin 39 [VSYS, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(132.0800 mm, 121.9200 mm): Symbol U9 Pin 40 [VBUS, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(132.0800 mm, 129.5400 mm): Symbol U9 Pin 37 [3V3_EN, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(132.0800 mm, 132.0800 mm): Symbol U9 Pin 36 [3V3, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 129.5400 mm): Symbol U9 Pin 37 [3V3_EN, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(132.0800 mm, 121.9200 mm): Symbol U9 Pin 40 [VBUS, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(96.5200 mm, 167.6400 mm): Symbol U9 Pin 19 [GPIO14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(96.5200 mm, 137.1600 mm): Symbol U9 Pin 7 [GPIO5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(96.5200 mm, 170.1800 mm): Symbol U9 Pin 20 [GPIO15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(96.5200 mm, 144.7800 mm): Symbol U9 Pin 10 [GPIO7, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(96.5200 mm, 134.6200 mm): Symbol U9 Pin 6 [GPIO4, Bidirectional, Line]
+
+ ** ERC messages: 90  Errors 90  Warnings 0

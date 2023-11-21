@@ -1,4 +1,4 @@
-5099589953426
+13601582278699
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2589,6 +2589,27 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+CansatFootprints
+Adafruit BMP388 Blue
+
+
+0
+8
+8
+CansatFootprints
+MPU6050 Module
+
+
+0
+8
+8
+CansatFootprints
+XBee S2C
+
+
+0
+20
+20
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -92525,3 +92546,17 @@ varistor
 0
 2
 2
+adafruitbmp388
+1X08_ROUND_70
+
+
+0
+8
+8
+adafruitbmp388
+MOUNTINGHOLE_2.0_PLATED
+
+
+0
+1
+1
