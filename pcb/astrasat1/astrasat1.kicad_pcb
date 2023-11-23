@@ -26664,7 +26664,7 @@
   (gr_text "PCB designed by \nTan S. Akıncı" (at 152.035 151.765) (layer "B.SilkS") (tstamp c14116e1-ac1f-45c8-8494-03c8322a01fa)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify bottom))
   )
-  (gr_text "ASTRASAT PICO V1" (at 138.3 94.15) (layer "F.SilkS") (tstamp 06dfbe50-e979-468e-8359-1bad7e2f9fb6)
+  (gr_text "ASTRASAT PICO V1" (at 138.027856 92.71) (layer "F.SilkS") (tstamp 06dfbe50-e979-468e-8359-1bad7e2f9fb6)
     (effects (font (size 2 2) (thickness 0.3) bold) (justify left bottom))
   )
   (gr_text "Pitot" (at 121.02 143.22 90) (layer "F.SilkS") (tstamp 0e77119e-297e-439d-a18b-b0349c80e27f)

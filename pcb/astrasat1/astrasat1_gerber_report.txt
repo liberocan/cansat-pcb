@@ -1,4 +1,3 @@
-Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.149999 mm] for the current design rules.
 Plotted to '/home/yutyo/Documents/LAB-POLI/LAB-ASTRA/cansat-circuits/pcb/astrasat1/astrasat1-F_Cu.gbr'.
 Plotted to '/home/yutyo/Documents/LAB-POLI/LAB-ASTRA/cansat-circuits/pcb/astrasat1/astrasat1-B_Cu.gbr'.
 Plotted to '/home/yutyo/Documents/LAB-POLI/LAB-ASTRA/cansat-circuits/pcb/astrasat1/astrasat1-F_Paste.gbr'.
