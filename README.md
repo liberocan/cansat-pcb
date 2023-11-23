@@ -6,8 +6,8 @@ Check out our [Notion page](https://www.notion.so/astrateampolito/Components-Sen
 
 ## Pictures
 ### PCB
-![Front](pictures/astrasat pcb render isometric 1.png "Front")
-![Back](pictures/astrasat pcb render isometric 2.png "Back")
+![Front](pictures/astrasat-pcb-render-isometric-1.png)
+![Back](pictures/astrasat-pcb-render-isometric-2.png)
 
 ## TO-DO
 - [X] Creation of part list
