@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.149999 mm] for the current design rules.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-F_Cu.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-B_Cu.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-F_Paste.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-B_Paste.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-F_Silkscreen.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-B_Silkscreen.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-F_Mask.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-B_Mask.gbr'.
+Plotted to '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-Edge_Cuts.gbr'.
+Created Gerber job file '/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1-job.gbrjob'.
+Info: Done.
