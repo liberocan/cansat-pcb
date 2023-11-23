@@ -26165,7 +26165,7 @@
 
   (footprint "Symbol:Symbol_GNU-Logo_SilkscreenTop" (layer "B.Cu")
     (tstamp dbff4d5e-1b89-4872-a85d-fa1a3446fb57)
-    (at 151.78481 142.56893 180)
+    (at 151.78481 129.86893 180)
     (descr "GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,")
     (tags "GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -26661,7 +26661,7 @@
 
   (gr_circle (center 151.815 94.36) (end 211.815 94.36)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ad90f5f7-4e8e-4967-818a-67e74121202b))
-  (gr_text "PCB designed by \nTan S. Akıncı" (at 152.035 151.765) (layer "B.SilkS") (tstamp c14116e1-ac1f-45c8-8494-03c8322a01fa)
+  (gr_text "PCB designed by \nTan S. Akıncı" (at 152.035 139.065) (layer "B.SilkS") (tstamp c14116e1-ac1f-45c8-8494-03c8322a01fa)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify bottom))
   )
   (gr_text "ASTRASAT PICO V1" (at 138.027856 92.71) (layer "F.SilkS") (tstamp 06dfbe50-e979-468e-8359-1bad7e2f9fb6)
