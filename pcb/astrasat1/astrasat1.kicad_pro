@@ -443,7 +443,7 @@
       "idf": "",
       "netlist": "astrasat1.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "astrasat1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
