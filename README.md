@@ -17,3 +17,6 @@ Check out our [docs](https://www.notion.so/astrateampolito/Components-Sensor-Pay
 - [x] Creation of PCB
 - [x] Creation of gerber files for manufacturing
 - [] Ordering and testing
+
+## License
+This free and open source project and its files are licensed with [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html)
