@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/yutyo/LAB-POLI/LAB-ASTRA/cansat-circuits/astrasat_pcb/astrasat1.kicad_sch</source>
+    <date>Tue 16 Jan 2024 12:39:38 AM CET</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>ASTRASAT PCB</title>
+        <company/>
+        <rev>v1.03.1</rev>
+        <date>2024-01-16</date>
+        <source>astrasat1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value="                                                                    License: CC BY-SA 4.0"/>
+        <comment number="4" value="                                                                    Author: Tan Siret Akıncı"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BigM1">
+      <value>Motor_Servo</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>http://forums.parallax.com/uploads/attachments/46831/74481.png</datasheet>
+      <libsource lib="Motor" part="Motor_Servo" description="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="ki_keywords" value="Servo Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43773aff-58ae-4821-97d8-72c621a626b0</tstamps>
+    </comp>
+    <comp ref="CellBT1">
+      <value>Battery_Cell</value>
+      <footprint>Battery:BatteryHolder_Keystone_103_1x20mm</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Single-cell battery"/>
+      <property name="ki_keywords" value="battery cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f1fcb70-81e2-4425-832d-ec1179be3195</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5817</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b19c7f03-c3f6-4596-bd4c-a2821959481f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5817</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <libsource lib="Diode" part="1N5817" description="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="20V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dec7ccd7-e86d-41c4-ab23-1a390aea7afa</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>CAM1</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>942a4e74-4be0-42e6-a11a-1e2c3d6cf283</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>CAM2</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9829a3fd-18b1-4524-b6d2-370ced3e2a8e</tstamps>
+    </comp>
+    <comp ref="MainBT1">
+      <value>Battery_Cell</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Single-cell battery"/>
+      <property name="ki_keywords" value="battery cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d08b0b9b-e843-4435-b00b-1a04bd0e7af6</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>784dd1ae-f9ba-44fc-ac3c-092e3e7b7532</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5K6</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ce1888e-5048-468b-87f5-ded08560e6d4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b596d312-d27b-4ae7-992d-c0bbc99a9a38</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0609a906-93bc-4ac1-93e4-5cf3654cf2bc</tstamps>
+    </comp>
+    <comp ref="SmallM1">
+      <value>Motor_Servo</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>http://forums.parallax.com/uploads/attachments/46831/74481.png</datasheet>
+      <libsource lib="Motor" part="Motor_Servo" description="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="ki_keywords" value="Servo Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e73829a8-7400-4985-be18-853c5cf4ce14</tstamps>
+    </comp>
+    <comp ref="SmallM2">
+      <value>Motor_Servo</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>http://forums.parallax.com/uploads/attachments/46831/74481.png</datasheet>
+      <libsource lib="Motor" part="Motor_Servo" description="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="ki_keywords" value="Servo Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a057788-7307-4d08-880c-0e2e54065d6a</tstamps>
+    </comp>
+    <comp ref="SmallM3">
+      <value>Motor_Servo</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>http://forums.parallax.com/uploads/attachments/46831/74481.png</datasheet>
+      <libsource lib="Motor" part="Motor_Servo" description="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="ki_keywords" value="Servo Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ded4fc48-70b2-4299-82c8-ac2e6aeef6db</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPDT</value>
+      <footprint>Button_Switch_THT:SW_E-Switch_EG1271_SPDT</footprint>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>638a5097-72c4-4e48-b946-ba0480f893ef</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>CansatFootprints:BN-220</footprint>
+      <libsource lib="CansatParts" part="BN-220" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcf6da3b-5850-4fc0-8279-614447f9910a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>~</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="CansatParts" part="MPXV7002DP CJMCU-36" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe67f035-db2b-4d3b-9a71-dbe7eb7ec52d</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>DS1302+</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/DS1302.pdf</datasheet>
+      <libsource lib="Timer_RTC" part="DS1302+" description="Trickle-Charge Timekeeping Chip, 2.0V to 5.5V VCC, 0°C to +70°C, DIP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Trickle-Charge Timekeeping Chip, 2.0V to 5.5V VCC, 0°C to +70°C, DIP-8"/>
+      <property name="ki_keywords" value="RTC, Trickle-Charge Timekeeping Chip"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb802cc1-d344-4423-9447-51f66ec283c4</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>~</value>
+      <footprint>CansatFootprints:XBee S2C</footprint>
+      <libsource lib="CansatParts" part="XBee_S2C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1d30aa2-4e0b-4b84-bee0-f1b16a035ff9</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>Pico</value>
+      <footprint>MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH</footprint>
+      <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8f1a853-d33a-4027-aac1-90ab1cf097eb</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>~</value>
+      <footprint>CansatFootprints:Adafruit MicroSD Breakout</footprint>
+      <libsource lib="CansatParts" part="Micro_SD_Card_Breakout_Board_Adafruit" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fe3c70d-9b6a-46b1-b847-d2e9d31fd6d7</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>~</value>
+      <footprint>CansatFootprints:Adafruit BMP388 Blue</footprint>
+      <libsource lib="CansatParts" part="BMP388_Adafruit" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fee7b848-da1d-4ce2-be4d-c0636dc7390e</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>~</value>
+      <footprint>CansatFootprints:MPU6050 Module</footprint>
+      <libsource lib="CansatParts" part="MPU6050_ITG/MPU" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1b32fbc-dd5d-4d10-ae87-c9059996a49e</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>~</value>
+      <footprint>CansatFootprints:LM2596 Voltage Regulator board</footprint>
+      <libsource lib="CansatParts" part="LM2596_DC-DC_Buck_Module" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>700cf189-1093-4cae-80d2-0c08a1398be0</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <footprint>Crystal:Crystal_C38-LF_D3.0mm_L8.0mm_Vertical</footprint>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="astrasat1.kicad_sch"/>
+      <property name="ki_description" value="Two pin crystal"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3042e13d-87c2-495a-becf-f13c3ea4e7c3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="CansatParts" part="BMP388_Adafruit">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="input"/>
+        <pin num="2" name="3Vo" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="SCK" type="input"/>
+        <pin num="5" name="SDO" type="input"/>
+        <pin num="6" name="SDI" type="input"/>
+        <pin num="7" name="CS" type="input"/>
+        <pin num="8" name="INT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="CansatParts" part="BN-220">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="TX" type="input"/>
+        <pin num="3" name="RX" type="input"/>
+        <pin num="4" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="CansatParts" part="LM2596_DC-DC_Buck_Module">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN+" type="input"/>
+        <pin num="2" name="IN-" type="input"/>
+        <pin num="3" name="OUT-" type="output"/>
+        <pin num="4" name="OUT+" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="CansatParts" part="MPU6050_ITG/MPU">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="input"/>
+        <pin num="5" name="XDA" type="input"/>
+        <pin num="6" name="XCL" type="input"/>
+        <pin num="7" name="AD0" type="input"/>
+        <pin num="8" name="INT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="CansatParts" part="MPXV7002DP CJMCU-36">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="+5V" type="input"/>
+        <pin num="3" name="A" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="CansatParts" part="Micro_SD_Card_Breakout_Board_Adafruit">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CD" type="input"/>
+        <pin num="2" name="CS" type="input"/>
+        <pin num="3" name="DI" type="input"/>
+        <pin num="4" name="DO" type="input"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="GND" type="input"/>
+        <pin num="7" name="3V" type="input"/>
+        <pin num="8" name="5V" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="CansatParts" part="XBee_S2C">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="DOUT" type="input"/>
+        <pin num="3" name="DIN/~{CON}" type="input"/>
+        <pin num="4" name="DI012" type="input"/>
+        <pin num="5" name="~{RESET}" type="input"/>
+        <pin num="6" name="DIO10" type="input"/>
+        <pin num="7" name="DIO11" type="input"/>
+        <pin num="8" name="RESERV" type="input"/>
+        <pin num="9" name="DIO8" type="input"/>
+        <pin num="10" name="GND" type="input"/>
+        <pin num="11" name="DIO4" type="input"/>
+        <pin num="12" name="DIO7" type="input"/>
+        <pin num="13" name="ON/~{SLP}" type="input"/>
+        <pin num="14" name="VREF" type="input"/>
+        <pin num="15" name="DIO5" type="input"/>
+        <pin num="16" name="DIO6" type="input"/>
+        <pin num="17" name="AD3/DIO3" type="input"/>
+        <pin num="18" name="AD2/DIO2" type="input"/>
+        <pin num="19" name="AD1/DIO1" type="input"/>
+        <pin num="20" name="BTN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5817">
+      <description>20V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5817</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_and_Boards" part="Pico">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Pico</field>
+        <field name="Footprint">RPi_Pico:RPi_Pico_SMD_TH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="bidirectional"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="41" name="SWCLK" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Motor_Servo">
+      <description>Servo Motor (Futaba, HiTec, JR connector)</description>
+      <docs>http://forums.parallax.com/uploads/attachments/46831/74481.png</docs>
+      <footprints>
+        <fp>PinHeader*P2.54mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Motor_Servo</field>
+        <field name="Datasheet">http://forums.parallax.com/uploads/attachments/46831/74481.png</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PWM" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+        <pin num="3" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer_RTC" part="DS1302+">
+      <description>Trickle-Charge Timekeeping Chip, 2.0V to 5.5V VCC, 0°C to +70°C, DIP-8</description>
+      <docs>https://datasheets.maximintegrated.com/en/ds/DS1302.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DS1302+</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet">https://datasheets.maximintegrated.com/en/ds/DS1302.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC2" type="power_in"/>
+        <pin num="2" name="X1" type="input"/>
+        <pin num="3" name="X2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="CE" type="input"/>
+        <pin num="6" name="I/O" type="bidirectional"/>
+        <pin num="7" name="SCLK" type="input"/>
+        <pin num="8" name="VCC1" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CansatParts">
+      <uri>/home/yutyo/.var/app/org.kicad.KiCad/data/kicad/7.0/symbols/CansatParts.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/app/extensions/Library/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/app/extensions/Library/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/app/extensions/Library/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi_and_Boards">
+      <uri>/home/yutyo/git/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym</uri>
+    </library>
+    <library logical="Motor">
+      <uri>/app/extensions/Library/symbols//Motor.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/app/extensions/Library/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="Timer_RTC">
+      <uri>/app/extensions/Library/symbols//Timer_RTC.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/GPIO0">
+      <node ref="SmallM3" pin="1" pinfunction="PWM" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="/GPIO1">
+      <node ref="SmallM2" pin="1" pinfunction="PWM" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/GPIO2">
+      <node ref="U5" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="SDA" pintype="input"/>
+    </net>
+    <net code="4" name="/GPIO3">
+      <node ref="U5" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+      <node ref="U8" pin="3" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="5" name="/GPIO4">
+      <node ref="U4" pin="2" pinfunction="DOUT" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/GPIO5">
+      <node ref="U4" pin="3" pinfunction="DIN/~{CON}" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/GPIO6">
+      <node ref="BigM1" pin="1" pinfunction="PWM" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/GPIO7">
+      <node ref="SmallM1" pin="1" pinfunction="PWM" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/GPIO8">
+      <node ref="U5" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="DO" pintype="input"/>
+    </net>
+    <net code="10" name="/GPIO9">
+      <node ref="U5" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="CS" pintype="input"/>
+    </net>
+    <net code="11" name="/GPIO10">
+      <node ref="U5" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
+      <node ref="U6" pin="5" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="12" name="/GPIO11">
+      <node ref="U5" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="13" name="/GPIO12">
+      <node ref="U5" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
+      <node ref="U7" pin="6" pinfunction="SDI" pintype="input"/>
+    </net>
+    <net code="14" name="/GPIO13">
+      <node ref="U5" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="15" name="/GPIO16">
+      <node ref="U1" pin="3" pinfunction="RX" pintype="input"/>
+      <node ref="U5" pin="21" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/GPIO17">
+      <node ref="U1" pin="2" pinfunction="TX" pintype="input"/>
+      <node ref="U5" pin="22" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/GPIO18">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="24" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/GPIO19">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="25" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/GPIO20">
+      <node ref="U3" pin="6" pinfunction="I/O" pintype="bidirectional"/>
+      <node ref="U5" pin="26" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/GPIO21">
+      <node ref="U3" pin="7" pinfunction="SCLK" pintype="input"/>
+      <node ref="U5" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/GPIO22">
+      <node ref="U3" pin="5" pinfunction="CE" pintype="input"/>
+      <node ref="U5" pin="29" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/GPIO26">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U5" pin="31" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/GPIO27">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U5" pin="32" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="3V3">
+      <node ref="U4" pin="1" pinfunction="VCC" pintype="input"/>
+      <node ref="U5" pin="36" pinfunction="3V3" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="3V" pintype="input"/>
+      <node ref="U7" pin="1" pinfunction="Vin" pintype="input"/>
+      <node ref="U8" pin="1" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="25" name="GND1">
+      <node ref="CellBT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SmallM1" pin="3" pinfunction="-" pintype="passive"/>
+      <node ref="SmallM2" pin="3" pinfunction="-" pintype="passive"/>
+      <node ref="SmallM3" pin="3" pinfunction="-" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="10" pinfunction="GND" pintype="input"/>
+      <node ref="U5" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="28" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="33" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U5" pin="38" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U5" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="GND" pintype="input"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="26" name="GND2">
+      <node ref="BigM1" pin="3" pinfunction="-" pintype="passive"/>
+      <node ref="MainBT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="IN-" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(BigM1-+)">
+      <node ref="BigM1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="IN+" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(CellBT1-+)">
+      <node ref="CellBT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VCC2" pintype="power_in"/>
+    </net>
+    <net code="29" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="30" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(MainBT1-+)">
+      <node ref="MainBT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(U2-A)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U3-X1)">
+      <node ref="U3" pin="2" pinfunction="X1" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(U3-X2)">
+      <node ref="U3" pin="3" pinfunction="X2" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="VSYS">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SmallM1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="SmallM2" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="SmallM3" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="+5V" pintype="input"/>
+      <node ref="U3" pin="8" pinfunction="VCC1" pintype="power_in"/>
+      <node ref="U5" pin="39" pinfunction="VSYS" pintype="power_in"/>
+    </net>
+    <net code="36" name="unconnected-(SW1-C-Pad3)">
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U4-AD1{slash}DIO1-Pad19)">
+      <node ref="U4" pin="19" pinfunction="AD1/DIO1" pintype="input+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U4-AD2{slash}DIO2-Pad18)">
+      <node ref="U4" pin="18" pinfunction="AD2/DIO2" pintype="input+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U4-AD3{slash}DIO3-Pad17)">
+      <node ref="U4" pin="17" pinfunction="AD3/DIO3" pintype="input+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U4-BTN-Pad20)">
+      <node ref="U4" pin="20" pinfunction="BTN" pintype="input+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(U4-DI012-Pad4)">
+      <node ref="U4" pin="4" pinfunction="DI012" pintype="input+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U4-DIO4-Pad11)">
+      <node ref="U4" pin="11" pinfunction="DIO4" pintype="input+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U4-DIO5-Pad15)">
+      <node ref="U4" pin="15" pinfunction="DIO5" pintype="input+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U4-DIO6-Pad16)">
+      <node ref="U4" pin="16" pinfunction="DIO6" pintype="input+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U4-DIO7-Pad12)">
+      <node ref="U4" pin="12" pinfunction="DIO7" pintype="input+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U4-DIO8-Pad9)">
+      <node ref="U4" pin="9" pinfunction="DIO8" pintype="input+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U4-DIO10-Pad6)">
+      <node ref="U4" pin="6" pinfunction="DIO10" pintype="input+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U4-DIO11-Pad7)">
+      <node ref="U4" pin="7" pinfunction="DIO11" pintype="input+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U4-ON{slash}~{SLP}-Pad13)">
+      <node ref="U4" pin="13" pinfunction="ON/~{SLP}" pintype="input+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U4-RESERV-Pad8)">
+      <node ref="U4" pin="8" pinfunction="RESERV" pintype="input+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U4-VREF-Pad14)">
+      <node ref="U4" pin="14" pinfunction="VREF" pintype="input+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U4-~{RESET}-Pad5)">
+      <node ref="U4" pin="5" pinfunction="~{RESET}" pintype="input+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U5-3V3_EN-Pad37)">
+      <node ref="U5" pin="37" pinfunction="3V3_EN" pintype="input+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U5-ADC_VREF-Pad35)">
+      <node ref="U5" pin="35" pinfunction="ADC_VREF" pintype="power_in+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U5-GND-Pad42)">
+      <node ref="U5" pin="42" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U5-GPIO14-Pad19)">
+      <node ref="U5" pin="19" pinfunction="GPIO14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U5-GPIO15-Pad20)">
+      <node ref="U5" pin="20" pinfunction="GPIO15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U5-GPIO28_ADC2-Pad34)">
+      <node ref="U5" pin="34" pinfunction="GPIO28_ADC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(U5-RUN-Pad30)">
+      <node ref="U5" pin="30" pinfunction="RUN" pintype="input+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(U5-SWCLK-Pad41)">
+      <node ref="U5" pin="41" pinfunction="SWCLK" pintype="input+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(U5-SWDIO-Pad43)">
+      <node ref="U5" pin="43" pinfunction="SWDIO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(U5-VBUS-Pad40)">
+      <node ref="U5" pin="40" pinfunction="VBUS" pintype="power_in+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U6-5V-Pad8)">
+      <node ref="U6" pin="8" pinfunction="5V" pintype="input+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U6-CD-Pad1)">
+      <node ref="U6" pin="1" pinfunction="CD" pintype="input+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U7-3Vo-Pad2)">
+      <node ref="U7" pin="2" pinfunction="3Vo" pintype="input+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U7-CS-Pad7)">
+      <node ref="U7" pin="7" pinfunction="CS" pintype="input+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(U7-INT-Pad8)">
+      <node ref="U7" pin="8" pinfunction="INT" pintype="input+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U7-SDO-Pad5)">
+      <node ref="U7" pin="5" pinfunction="SDO" pintype="input+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U8-AD0-Pad7)">
+      <node ref="U8" pin="7" pinfunction="AD0" pintype="input+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U8-INT-Pad8)">
+      <node ref="U8" pin="8" pinfunction="INT" pintype="input+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U8-XCL-Pad6)">
+      <node ref="U8" pin="6" pinfunction="XCL" pintype="input+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U8-XDA-Pad5)">
+      <node ref="U8" pin="5" pinfunction="XDA" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
