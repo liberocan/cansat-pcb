@@ -19,4 +19,4 @@ Check out our [docs](https://github.com/liberocan/cansat-docs/blob/main/CIRCUIT.
 - [] Ordering and testing
 
 ## License
-This free and open source hardware project is licensed with [CERN Open Hardware License Version 2 - Weakly Reciprocal](https://ohwr.org/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt)
+This free and open source hardware project is licensed with [CERN Open Hardware License Version 2 - Weakly Reciprocal](https://ohwr.org/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt). The schematics are licensed with [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
