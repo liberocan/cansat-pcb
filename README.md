@@ -2,7 +2,7 @@
 Diagrams, circuits, schemas and gerber files of LiberoCAN free and open source CanSat
 
 ## Components
-Check out our [docs](https://www.notion.so/astrateampolito/Components-Sensor-Payload-24f630e80aeb4f689f4a4227b104ff25) for components.
+Check out our [docs](https://github.com/liberocan/cansat-docs/blob/main/CIRCUIT.md) for components.
 
 ## Pictures
 ### PCB
