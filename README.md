@@ -2,7 +2,7 @@
 Diagrams, circuits, schemas and gerber files of LiberoCAN free and open source CanSat
 
 ## Components
-Check out our [docs](https://www.notion.so/astrateampolito/Components-Sensor-Payload-24f630e80aeb4f689f4a4227b104ff25) for components.
+Check out our [docs](https://github.com/liberocan/cansat-docs/blob/main/CIRCUIT.md) for components.
 
 ## Pictures
 ### PCB
@@ -19,4 +19,4 @@ Check out our [docs](https://www.notion.so/astrateampolito/Components-Sensor-Pay
 - [] Ordering and testing
 
 ## License
-This free and open source hardware project is licensed with [CERN Open Hardware License Version 2 - Weakly Reciprocal](https://ohwr.org/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt) and has been certified by OSHW as Open Source Hardware with UID:[IT000016](https://certification.oshwa.org/it000016.html).
+This free and open source hardware project is licensed with [CERN Open Hardware License Version 2 - Weakly Reciprocal](https://ohwr.org/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt). The schematics are licensed with [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). The project has been certified by OSHW as Open Source Hardware as UID: [IT000016](https://certification.oshwa.org/it000016.html).
